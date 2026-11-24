@@ -1,8 +1,12 @@
-# Rainbow Bottles privacy and support pages
+# Wibbi Wobbo app pages
 
-Static pages for the Rainbow Bottles iOS app. GitHub Pages serves this repository
-from its `main` branch root.
+One public GitHub Pages repository for Wibbi Wobbo app privacy and support pages.
+GitHub Pages serves this repository from the root of its `main` branch.
 
 - Home: https://snnlsy.github.io/rainbow-bottles-legal/
-- Privacy policy: https://snnlsy.github.io/rainbow-bottles-legal/privacy/
-- Support: https://snnlsy.github.io/rainbow-bottles-legal/support/
+- Rainbow Bottles privacy: https://snnlsy.github.io/rainbow-bottles-legal/apps/color-potions/privacy/
+- Rainbow Bottles support: https://snnlsy.github.io/rainbow-bottles-legal/apps/color-potions/support/
+
+Add future app pages under `apps/<workspace-id>/privacy/` and
+`apps/<workspace-id>/support/`. The root `/privacy/` and `/support/` paths remain
+as compatibility links for older Rainbow Bottles URLs.
