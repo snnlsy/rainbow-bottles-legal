@@ -1,3 +1,4 @@
-# cloud-picnic privacy page
+# Cloud Picnic privacy page
 
-Draft space only. Replace this file with a verified `index.html` before using this URL publicly or in App Store Connect.
+Published at https://snnlsy.github.io/rainbow-bottles-legal/apps/cloud-picnic/privacy/.
+Review the policy against the Cloud Picnic app's data handling before changing it.

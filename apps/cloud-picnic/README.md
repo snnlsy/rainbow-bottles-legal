@@ -1,5 +1,7 @@
-# cloud-picnic app pages
+# Cloud Picnic app pages
 
-This folder is reserved for this app’s public privacy and support pages. It is a scaffold only; do not use its URL in App Store Connect until the app-specific content has been prepared and checked.
+Cloud Picnic’s public privacy and support pages are published from this folder.
 
-When the app is ready, publish its pages at `privacy/index.html` and `support/index.html` in this folder. Verify every privacy statement against this app’s actual data handling before publication.
+- Home: https://snnlsy.github.io/rainbow-bottles-legal/apps/cloud-picnic/
+- Privacy: https://snnlsy.github.io/rainbow-bottles-legal/apps/cloud-picnic/privacy/
+- Support: https://snnlsy.github.io/rainbow-bottles-legal/apps/cloud-picnic/support/
